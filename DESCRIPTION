@@ -1,0 +1,18 @@
+Package: SiapR
+Type: Package
+Title: Extract agricultural and cattle data from siap since 1980
+Version: 0.1.0
+Author: Carlos Gonzalez
+Maintainer: Carlos Gonzalez <carlosglezleco@gmail.com>
+Description: Provides functions to download and parse information from SIAP.
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.1)
+Imports:
+    data.table,
+    dplyr,
+    magrittr,
+    rvest,
+    stringr
+RoxygenNote: 7.3.1
