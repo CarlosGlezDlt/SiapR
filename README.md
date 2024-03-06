@@ -11,6 +11,8 @@ agricultural and cattle information from siap since 1980 until the last
 release. For that porpuse are built two funcions: extract_a() for
 agricultural data and extract_g() for cattle data
 
+The data is taken from http://infosiap.siap.gob.mx/gobmx/datosAbiertos_a.php and http://infosiap.siap.gob.mx/gobmx/datosAbiertos_a.php
+
 ## Installation
 
 You can install the development version of SiapR like so:
