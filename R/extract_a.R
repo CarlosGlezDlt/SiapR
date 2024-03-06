@@ -1,5 +1,6 @@
 #' Agricultural Data
 #' @description Extract agricultural data available in siap since 1980
+#' @importFrom magrittr `%>%`
 #' @return a df with all the agricultural data available in siap since 1980
 #' @export
 #'

@@ -2,3 +2,4 @@
 
 export(extract_a)
 export(extract_g)
+importFrom(magrittr,`%>%`)
